@@ -1,4 +1,6 @@
 # Project 2 – Solving Eigenvalue problem with Jacobi Rotation Algorithm
+_This repository contains the work done by Erica Løken, Mads Mestl and Heine Husdal for Project 3 in the course 
+FYS3150 – Computational Physics at the University of Oslo._
 
 ## Project introduction
 In this project, we will solve an eigenvalue that arises as a special case of a one-dimensional buckling beam. We will study the shapes the beam can take when a compressive force is applied, using Jacobi's rotation algorithm. The buckling beam is modelled by the differential equation 
