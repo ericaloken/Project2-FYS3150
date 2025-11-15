@@ -1,0 +1,25 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.so
+*.dylib
+*.dll
+
+# Local binaries
+jacobi_test
+problem2
+problem5
+problem6
+test_max_offdiag
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.DS_Store
+*.swp
+.vscode/
